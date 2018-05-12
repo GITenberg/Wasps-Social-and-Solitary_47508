@@ -1,9 +1,13 @@
 _repo: Wasps-Social-and-Solitary_47508
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Emerton, James H.
     gutenberg_agent_id: '44356'
     url: http://www.gutenberg.org/2009/agents/44356
+covers:
+- cover_type: archival
+  image_path: 47508-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Peckham, Elizabeth G.
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44354'
     url: http://www.gutenberg.org/2009/agents/44354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47508#Wasps-Social-and-Solitary
 gutenberg_issued: '2014-12-01'
 gutenberg_type: Text
 identifiers:
